@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1679697848 source:c:\users\soypato\desktop\gestiontemperaturas\pila.c
+	"pila.h"
+
+1490112218 c:\users\soypato\desktop\gestiontemperaturas\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1682200937 source:c:\users\soypato\desktop\gestiontemperaturas\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pila.h"
+
